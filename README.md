@@ -17,6 +17,8 @@
 - [x] See a preview of my app with Preview in Jetpack Compose
 
 ## Setup
+Clone this repo and open in Android Studio  
+
 Build and refresh preview:
 - `Ctrl + Shift + Cmd + R`
   
